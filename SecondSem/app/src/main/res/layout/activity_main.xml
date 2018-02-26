@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lenovocom.secondsem.MainActivity"
+    android:gravity="center">
+ 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:src="@mipmap/images"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/winnersPlatform"
+        android:layout_marginLeft="120dp"
+        android:layout_marginRight="120dp"
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/secondPlatform"
+        android:layout_marginLeft="70dp"
+        android:layout_marginRight="70dp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/thirdPlatform"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"/>
+
+</LinearLayout>

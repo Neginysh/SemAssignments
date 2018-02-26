@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SecondSem</string>
+    <string name="name_family_name">First Name, Family name</string>
+    <string name="number">Number</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="sign_up">Sign Up</string>
+</resources>

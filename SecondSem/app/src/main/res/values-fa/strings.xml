@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SecondSem</string>
+    <string name="name_family_name">نام و نام خوانوادگی</string>
+    <string name="number">شماره همراه</string>
+    <string name="username">نام کاربری</string>
+    <string name="password">پسود</string>
+    <string name="register">ثبت نام</string>
+    <string name="sign_up">فرم ثبت نام</string>
+</resources>
